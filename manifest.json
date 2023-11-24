@@ -1,0 +1,11 @@
+{
+  "name": "Screen Timer",
+  "version": "1.0.0",
+  "description": "Timer to remind user to take breaks",
+  "manifest_version": 3,
+  "author": "Klinton Driscoll",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Screen Timer"
+  }
+}
