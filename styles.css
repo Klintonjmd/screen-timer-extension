@@ -3,6 +3,8 @@ body {
 }
 
 div {
+  width: 450px;
+  background-color: #4b5668;
   color: #c4d1e6;
   font-size: 30px;
   text-align: center;
